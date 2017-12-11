@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/parcel-test.iml
+.idea/workspace.xml
+node_modules/
+package.json
+.cache
+dist
